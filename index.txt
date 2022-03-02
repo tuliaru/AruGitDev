@@ -1,1 +1,1 @@
-This is version 1 index file.
+Version 1 index file.
